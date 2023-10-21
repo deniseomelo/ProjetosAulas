@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+   
+
+}
+
+
+@font-face {
+    font-family: 'dc2';
+    src: url('/public/assets/fonts/dc2.woff2');
+}
+@font-face {
+    font-family: 'dc1';
+    src: url('/public/assets/fonts/dc1.woff2');
+}

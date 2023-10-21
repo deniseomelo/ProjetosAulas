@@ -1,0 +1,273 @@
+
+
+.secao-0 {
+    align-items: center;
+    width: 100%;
+    padding: 25px;
+    overflow-y: hidden;
+    overflow-x: hidden;
+  }
+  .secao-0 .logo {
+    position: relative;
+    left: 310px;
+    width: 100px;
+  }
+  .secao-0 a {
+    font: 0.8669rem "dc1";
+    position: relative;
+    color: rgba(0, 0, 0, 0.774);
+    float: right;
+    padding-right: 380px;
+    text-decoration: none;
+  }
+  .secao-0 a:hover {
+    text-decoration: underline;
+  }
+  
+  .secao-01 {
+    overflow-y: hidden;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    height: 622px;
+    background-position-x: center;
+    background-image: url(../../../public/assets/images/fundo.svg);
+  }
+  .secao-01 .caixa1 {
+    position: relative;
+    left: 279px;
+    top: -30px;
+  }
+  .secao-01 .caixa1 .presenteie {
+    font: 75px "dc2";
+    left: -50px;
+    top: 10px;
+    position: relative;
+  }
+  .secao-01 .caixa1 .presenteie .estrelaPequena {
+    width: 15px;
+    height: 15px;
+    left: 415px;
+    top: -55px;
+    position: relative;
+  }
+  .secao-01 .caixa1 .presenteie .estrelaGrande {
+    width: 30px;
+    height: 30px;
+    left: 415px;
+    position: relative;
+  }
+  .secao-01 .caixa1 .seu {
+    font: 30px "dc2";
+    bottom: 34px;
+    position: relative;
+  }
+  .secao-01 .caixa1 .time {
+    font: 70px "dc2";
+  }
+  .secao-01 .caixa1 .card {
+    font: 35px "dc2";
+    display: flex;
+    gap: 30px;
+  }
+  .secao-01 .caixa1 .card .estrelaMedia {
+    width: 25px;
+    height: 25px;
+  }
+  .secao-01 .caixa2 {
+    position: relative;
+    left: 370px;
+    width: 300px;
+  }
+  .secao-01 p {
+    color: white;
+    font: 15px "dc1";
+  }
+  .secao-01 h4 {
+    font: 20px dc2;
+    color: white;
+    margin-bottom: 20px;
+  }
+  .secao-01 span {
+    color: white;
+    
+  }
+  .secao-01 img {
+    height: 626px;
+    width: 960px;
+    position: relative;
+    left: 320px;
+  }
+  .secao-01 .botao1 {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 490px;
+    top: 600px;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    box-shadow: rgba(93, 93, 93, 0.15) 4px 0 24px 0;
+    background-color: white;
+    height: 209px;
+    width: 408px;
+  }
+  .secao-01 .botao1 span {
+    margin-top: 50px;
+    font: 20px "dc2";
+    color: black;
+    text-align: center;
+  }
+  .secao-01 .botao1 a {
+    top: 70px;
+    position: relative;
+    left: 60px;
+    height: 3rem;
+    width: 18.0625rem;
+    text-align: center;
+    font: 15px "dc1";
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    line-height: 50px;
+  }
+  .secao-01 .botao1 a:hover {
+    cursor: pointer;
+    background-color: rgb(65, 64, 64);
+  }
+  .secao-01 .botao2 {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 920px;
+    top: 600px;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    box-shadow: rgba(93, 93, 93, 0.15) 4px 0 24px 0;
+    background-color: white;
+    height: 209px;
+    width: 408px;
+  }
+  .secao-01 .botao2 span {
+    margin-top: 50px;
+    font: 20px "dc2";
+    color: black;
+    text-align: center;
+  }
+  .secao-01 .botao2 a {
+    top: 45px;
+    position: relative;
+    left: 60px;
+    height: 3rem;
+    width: 18.0625rem;
+    text-align: center;
+    font: 15px "dc1";
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    line-height: 50px;
+  }
+  .secao-01 .botao2 a:hover {
+    cursor: pointer;
+    background-color: rgb(65, 64, 64);
+  }
+  
+  .secao-02 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 622px;
+    overflow-y: hidden;
+    overflow-x: hidden;
+   
+  }
+  .secao-02 div {
+    display: flex;
+    flex-direction: row;
+  }
+  .secao-02 div div {
+    display: flex;
+    flex-direction: column;
+  }
+  .secao-02 div div h3 {
+    font: 0px "dc2";
+    font-size: 1.25rem;
+    margin-bottom: 10px;
+    margin-top: 100px;
+  }
+  .secao-02 div div p {
+    width: 17.1875rem;
+    font: 0px "dc1";
+    font-size: 0.8669rem;
+  }
+  .secao-02 span {
+    text-align: center;
+    padding-top: 175px;
+    font: 0px "dc2";
+    font-size: 2.875rem;
+  }
+  .secao-02 a {
+    font: 20px "dc2";
+    font-size: 1rem;
+    font-weight: 700;
+    text-align: center;
+    color: black;
+    border-radius: 25px;
+    background-color: #F5F5F5;
+    text-decoration: none;
+    height: 3rem;
+    width: 15.3125rem;
+    line-height: 50px;
+  }
+  .secao-02 a:hover {
+    cursor: pointer;
+    background-color: #d1d1d1;
+  }
+  
+  .secao-03 {
+    overflow-y: hidden;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 481px;
+    background-position-x: center;
+    background-image: url(../../../public/assets/images/fundo-caixa.webp);
+  }
+  .secao-03 h3 {
+    padding-top: 50px;
+    position: relative;
+    left: 300px;
+    text-align: left;
+    font: 0px "dc2";
+    font-size: 2.1672rem;
+    color: white;
+  }
+  .secao-03 div {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    left: 150px;
+  }
+  .secao-03 div div {
+    display: flex;
+    flex-direction: column;
+    width: 20.4375rem;
+    gap: 10px;
+    padding-top: 30px;
+    padding-left: 40px;
+  }
+  .secao-03 div div strong {
+    display: flex;
+    color: white;
+    font: 10px "dc2";
+    font-size: 0.9907rem;
+    gap: 10px;
+  }
+  .secao-03 div div span {
+    color: white;
+    font: 10px "dc1";
+    font-size: 0.8669rem;
+  }
+  
+  
