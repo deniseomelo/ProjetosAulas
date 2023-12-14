@@ -1,0 +1,16 @@
+h1{
+    color: rgb(165, 42, 157);
+}
+
+p {
+    border: 1px solid black;
+}
+.grupo1 > p{
+    color:fuchsia
+    
+}
+.grupo1  p:hover{
+    color: chocolate;
+    transition: 1s;
+    
+}

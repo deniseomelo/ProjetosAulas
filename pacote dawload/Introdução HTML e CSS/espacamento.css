@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'autentica';
+    src: url('WritingSignature.otf');
+}
+
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+input{
+    margin: 20px 50px;
+    padding: 10px;
+    outline: none;
+    border-radius: 20px;
+    
+
+}
+h1 {
+    
+    color: darksalmon;
+    font-family: 'autentica';
+}

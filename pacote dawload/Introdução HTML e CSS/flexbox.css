@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+h1{
+   color: #d524d5; 
+
+}
+
+body{
+    margin: 30px;
+}
+
+.grupo{
+    background-color: cyan;
+    padding: 10px;
+    height: 200px;
+
+    display: flex;
+    justify-content:space-between;
+    align-items: flex-start;
+
+    flex-wrap: wrap;
+
+}
+.grupo div{
+    background-color: lightcoral;
+    margin: 1px;
+    
+
+    color: white;
+    padding: 10px;
+
+}
+
+.item3{
+    flex-grow: 1;
+}
